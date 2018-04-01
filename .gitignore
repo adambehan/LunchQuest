@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+eclipse/
+out/
+*.txt
+*.ipr
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+resources/*.config
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
